@@ -1,0 +1,7 @@
+RASIDI-RESOLUSI 
+## 🌟 Resolusi 2025 🌟
+1. 🚀 **Belajar Framework Baru**: Fokus pada Next.js dan TailwindCSS.  
+2. 🌱 **Kontribusi Open Source**: Menyumbang setidaknya 10 pull request ke proyek open-source.  
+3. 📖 **Tulis Artikel Teknis**: Bagikan pengalaman dan pembelajaran melalui artikel bulanan.  
+4. 🛠️ **Bangun Proyek Baru**: Buat aplikasi web yang membantu developer lain.  
+5. 🔍 **Eksplorasi Teknologi Baru**: Pelajari tentang Web3 dan pengembangan blockchain.
